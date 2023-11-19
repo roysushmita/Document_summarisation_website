@@ -1,0 +1,7 @@
+streamlit
+requests
+googletrans
+Translator
+io
+os
+PyPDF2
