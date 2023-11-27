@@ -1,7 +1,7 @@
 # Text Summarization App
 
 ## Overview
-This text summarization website employs the powerful BART model(Bart large CNN), enabling users to succinctly summarize text, documents, or articles with ease. The platform offers a user-friendly interface where individuals can either input text directly or upload PDF files. Users have the flexibility to customize parameters such as minimum and maximum length to tailor the summary according to their preferences. The website harnesses the capabilities of the BART model to generate concise and coherent summaries.
+This text summarization website employs the powerful BART model(Bart large CNN), enabling users to succinctly summarize text, documents, or articles with ease. The platform offers a user-friendly interface where individuals can either input text directly or upload PDF files. Users have the flexibility to customize parameters such as minimum and maximum length to tailor the summary according to their preferences. The website harnesses the capabilities of the BART model to generate concise and coherent summaries...
 
 Moreover, a notable feature of this text summarization website is its language versatility. It has the capability to summarize content from any language and translate it into another language seamlessly. This multilingual functionality enhances its utility for a diverse user base, allowing individuals to receive summaries in their preferred languages. The interactive nature of the platform makes it accessible and efficient for users seeking high-quality summaries in a language of their choice.
 
